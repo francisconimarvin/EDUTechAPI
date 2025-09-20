@@ -1,2 +1,0 @@
-# EDUTechAPI
-Proyecto semestral: EDUTechAPI.
